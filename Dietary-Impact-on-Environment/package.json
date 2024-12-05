@@ -1,0 +1,14 @@
+{
+  "name": "@vis4sense/kewen-yu-research-methods-cw2",
+  "main": "4c6b460c64a27464@328.js",
+  "version": "328.0.0",
+  "homepage": "https://observablehq.com/@vis4sense/kewen-yu-research-methods-cw2",
+  "author": {
+    "name": "vis4sense",
+    "url": "https://observablehq.com/@vis4sense"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

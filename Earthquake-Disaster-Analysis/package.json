@@ -1,0 +1,14 @@
+{
+  "name": "990c3d94f2e4b45a",
+  "main": "990c3d94f2e4b45a@2424.js",
+  "version": "2424.0.0",
+  "homepage": "https://observablehq.com/d/990c3d94f2e4b45a",
+  "author": {
+    "name": "vis4sense",
+    "url": "https://observablehq.com/@vis4sense"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
