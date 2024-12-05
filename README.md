@@ -9,7 +9,7 @@ This project presents an innovative approach to enhancing earthquake disaster re
 https://observablehq.com/d/990c3d94f2e4b45a
 
 ## (3) URL to screen-capture video
-
+https://youtu.be/RR9SEpPSQ84
 
 ## (4) Partial Screenshot Display
 ![image](https://github.com/user-attachments/assets/b20b1c42-bfb6-4c4b-8af8-20374a2819e3)
